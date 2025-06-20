@@ -11,9 +11,9 @@
 </div>
 
 <p align="center">
-    <a href="https://gaussian.id"><img alt="Website" src="https://img.shields.io/badge/Website-gaussian.id-blue?style=for-the-badge&logo=icloud&logoColor=white"></a>
-    <a href="https://gaussian.id/schedule-demo"><img alt="Schedule Demo" src="https://img.shields.io/badge/Schedule Demo-Book Now-blueviolet?style=for-the-badge&logo=googlecalendar&logoColor=white"></a>
-    <a href="https://gaussian.id/contact"><img alt="Contact Us" src="https://img.shields.io/badge/Contact Us-Get in Touch-green?style=for-the-badge&logo=email&logoColor=white"></a>
+    <a href="https://gaussian.au"><img alt="Website" src="https://img.shields.io/badge/Website-gaussian.au-blue?style=for-the-badge&logo=icloud&logoColor=white"></a>
+    <a href="https://gaussian.au/schedule-demo"><img alt="Schedule Demo" src="https://img.shields.io/badge/Schedule Demo-Book Now-blueviolet?style=for-the-badge&logo=googlecalendar&logoColor=white"></a>
+    <a href="https://gaussian.au/contact"><img alt="Contact Us" src="https://img.shields.io/badge/Contact Us-Get in Touch-green?style=for-the-badge&logo=email&logoColor=white"></a>
 </p>
 
 ---
@@ -134,9 +134,9 @@
 ---
 
 <p align="center">
-  <a href="https://gaussian.id/privacy-policy">Privacy Policy</a> • 
-  <a href="https://gaussian.id/terms-conditions">Terms & Conditions</a> • 
-  <a href="https://gaussian.id/customer-support">Customer Support</a>
+  <a href="https://gaussian.au/privacy-policy">Privacy Policy</a> • 
+  <a href="https://gaussian.au/terms-conditions">Terms & Conditions</a> • 
+  <a href="https://gaussian.au/customer-support">Customer Support</a>
   <br><br>
-  <em>© 2025 Gaussian.id. All Rights Reserved</em>
+  <em>© 2025 Gaussian.au. All Rights Reserved</em>
 </p>
